@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="github_profile_banner.png" alt="Rishi Sharma Banner" width="100%" />
+
 
   # 👋 Welcome! I'm Rishi Sharma
   
