@@ -1,14 +1,11 @@
+<div align="center">
+  <img src="github_profile_banner.png" alt="Rishi Sharma Banner" width="100%" />
 
-
-  # 👋 Welcome! I'm Rishi Sharma
+  # 👋 Hi, I'm Rishi Sharma
   
-  **Full-Stack Developer | AI Enthusiast | Problem Solver | Open Source Contributor**
-  
-  *Building innovative solutions that matter • Turning ideas into reality • Breaking limits daily*
+  **BCA Student | Full-Stack Software Engineer | AI & ML Developer**
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Passionate+About+Technology" alt="Typing SVG" />
-  </p>
+  *Building intelligent systems, scalable web apps, developer platforms, and experimental software.*
 
   <p align="center">
     <a href="mailto:rishisharma.bca25@satyug.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -16,76 +13,78 @@
     <a href="https://linkedin.com/in/rishisharma029"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://twitter.com/rishisharma029"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   </p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full-Stack+%26+AI+Software+Engineer;Building+CampusOS%2C+AgriVision+%26+PhishGuard;Passionate+About+Distributed+Systems;Turning+Unconventional+Ideas+Into+Code" alt="Typing SVG" />
+  </p>
 </div>
 
 ---
 
-## 🎯 Quick About Me
+### 💫 About Me
 
-I'm a **BCA student** passionate about creating software that's useful, elegant, and sometimes hilariously experimental. I transform ambitious ideas into production-ready applications, with a special focus on:
+I'm a **BCA student** and software engineer driven by turning complex technical challenges into production-ready platforms. My work spans **AI-powered applications**, **computer vision & OCR**, **enterprise management portals**, **cybersecurity tools**, and **distributed system engines**.
 
-✨ **AI-Powered Applications** | 🚀 **Developer Tools** | 🌐 **Web Development** | 🔧 **Full-Stack Solutions**
-
-My philosophy: **Ship > Perfection**. I'd rather have a working solution today than a perfect one tomorrow. You'll find my GitHub filled with projects that started as "what if?" and became "wow, that actually works!"
-
-When I'm not coding, I'm probably:
-- 🧠 Researching cutting-edge tech trends
-- 🎨 Designing beautiful user experiences
-- 🐛 Debugging at 2 AM (with coffee ☕)
-- 📚 Learning something new every day
-- 🤝 Contributing to open source
+I focus on **shipping high-impact software** rather than keeping ideas trapped in draft notes. From computer vision heatmaps to real-time disaster coordination networks and AI architecture visualizers, I construct applications with robust backends and sleek, modern UI/UX.
 
 ---
 
-## 💻 Tech Stack & Expertise
+### 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
-### 🚀 Languages & Core
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+#### 🚀 Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🌐 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+#### 🌐 Frameworks & Full-Stack Development
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🗄️ Databases & Tools
+#### 🧠 AI, ML & Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TrOCR](https://img.shields.io/badge/Microsoft_TrOCR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+#### 🗄️ Databases & DevOps
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🤖 AI & ML Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+### 🏆 Ranked Featured Projects
 
-<div align="center">
-
-| 🚨 | **Project** | **Description** | **Tech Stack** |
-|:---:|:---|:---|:---|
-| 🚨 | **ResQNet** | A disaster coordination and emergency response platform streamlining communication during crises with real-time updates. | React • Node.js • Express • WebSockets |
-| 📚 | **EvalSync** | AI-assisted answer sheet evaluation system with advanced analytics for automated grading workflows and insights. | Python • Next.js • OpenAI API • FastAPI |
-| 🔥 | **AI Resume Roaster** | Personality-driven resume analysis platform with hilarious yet honest diagnostics and developer humor injected throughout. | React • TailwindCSS • LLMs • Next.js |
-
-</div>
+| Rank | Project | Category | Key Highlights & Description | Tech Stack |
+| :---: | :--- | :--- | :--- | :--- |
+| 🥇 **1** | **[CampusOS](https://github.com/Rishisharma029/campusOS)** | Enterprise ERP | Enterprise-grade College & University Management System with multi-role portals, academic workflows, and admin controls. | `FastAPI` `React 19` `TypeScript` `Tailwind` |
+| 🥈 **2** | **[AgriVision](https://github.com/Rishisharma029/AgriVision)** | AI & AgriTech | Production crop leaf disease classification engine featuring explainable Grad-CAM heatmaps & offline-first PWA telemetry. | `TypeScript` `PyTorch` `Grad-CAM` `IndexedDB` |
+| 🥉 **3** | **[PhishGuard-AI](https://github.com/Rishisharma029/PhishGuard-AI)** | Cybersecurity AI | Enterprise security platform utilizing a two-track ML pipeline to detect phishing URLs and explain risk metrics to security teams. | `TypeScript` `Python` `Machine Learning` `APIs` |
+| 🏅 **4** | **[Visuals AI System Design](https://github.com/Rishisharma029/visuals-ai-system-design-visualizer)** | Dev Architecture | Interactive Next.js system architecture design canvas, distributed system analyzer, and real-time AI simulation engine. | `Next.js` `TypeScript` `Canvas API` `AI Engine` |
+| 🏅 **5** | **[Handwritten OCR System](https://github.com/Rishisharma029/handwritten-digital-recognition-system)** | Computer Vision | AI OCR platform optimized for multi-line cursive handwriting using TrOCR, vertical center-density line segmentation, and auto-spelling correction. | `Python` `Microsoft TrOCR` `PyTorch` `OpenCV` |
+| 🏅 **6** | **[ResQNet](https://github.com/Rishisharma029/resqnet)** | Crisis Response | Real-time AI disaster coordination & emergency response platform with GIS mapping, shelter tracking, resource allocation, and broadcasting. | `JavaScript` `React` `Node.js` `WebSockets` |
+| 🏅 **7** | **[EvalSync System](https://github.com/Rishisharma029/EvalSync-System)** | EdTech AI | AI-assisted academic evaluation and CBSE paper-checking platform with automated grading workflows and analytics dashboards. | `JavaScript` `Python` `OpenAI API` `FastAPI` |
+| 🏅 **8** | **[AI Resume Roaster](https://github.com/Rishisharma029/ai-resume-roaster)** | AI Tool | Brutally honest, personality-driven resume analysis tool with recruiter diagnostics, ATS scoring, and developer humor. | `React` `TailwindCSS` `LLMs` `Next.js` |
+| 🏅 **9** | **[DevInspect-AI](https://github.com/Rishisharma029/DevInspect-AI)** | DevSecOps AI | Repository intelligence platform analyzing code quality, security vulnerabilities, deployment readiness, and developer reviews. | `JavaScript` `Node.js` `LLM APIs` `Git` |
 
 ---
 
-## 📊 GitHub Analytics & Achievements
+### 📊 GitHub Stats & Activity
 
 <div align="center">
 
@@ -110,70 +109,26 @@ When I'm not coding, I'm probably:
 
 ---
 
-## 🎓 Currently Learning & Exploring
+### 🎓 Current Focus & Learning Journey
 
-- 🤖 Advanced AI/ML techniques and LLM applications
-- 🔐 System design and scalable architectures
-- 🌐 Full-stack web application optimization
-- 📱 Cross-platform mobile development
-- ☁️ Cloud infrastructure and DevOps
-
----
-
-## 💡 What Drives Me
-
-> **"Code is poetry written for computers, but it should sing to humans too."**
-
-I believe in:
-- ✅ Writing clean, maintainable code
-- ✅ Creating intuitive user experiences
-- ✅ Building products that solve real problems
-- ✅ Sharing knowledge with the community
-- ✅ Continuous learning and growth
-- ✅ Having fun while building
+- ⚡ **Distributed Systems Architecture**: Building canvas-based simulators and scaling web APIs.
+- 🤖 **Deep Learning & Vision**: Advancing Transformer-based OCR (TrOCR) and Grad-CAM interpretability.
+- 🛡️ **Cybersecurity ML**: Engineering automated threat detection pipelines and phishing pattern telemetry.
+- 💡 **Open Source Contribution**: Creating re-usable developer tools and sharing projects publicly.
 
 ---
 
-## 🤝 Let's Connect!
-
-I'm always excited to:
-- 💬 Discuss interesting tech problems
-- 🚀 Collaborate on exciting projects
-- 📖 Share knowledge and learn together
-- 🎯 Network with fellow developers and creators
-- 🌟 Support open-source initiatives
-
-**Feel free to reach out!** Whether you have an idea, a question, or just want to chat about tech:
+### 🤝 Connect & Collaborate
 
 <p align="center">
   <a href="mailto:rishisharma.bca25@satyug.edu.in"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Rishisharma029"><img src="https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/rishisharma029"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/rishisharma029"><img src="https://img.shields.io/badge/Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
----
-
-## ⭐ Fun Facts
-
-- 🎮 I code better after a strong cup of coffee ☕
-- 🌙 Some of my best ideas come at 2 AM
-- 📚 I believe in learning by building, not just reading
-- 🎨 I merge creativity with logic to create elegant solutions
-- 🔄 I'm a firm believer in continuous improvement
-- 🚀 I dream big, but I code bigger
-
----
-
 <div align="center">
-
-### 🙏 Thanks for Visiting!
-
-**Thanks for stopping by my profile!** If you found something interesting or useful, feel free to:
-
-⭐ **Star** my repositories • 🔗 **Fork** and contribute • 💬 **Reach out** to collaborate
-
-*Made with ❤️ and ☕ by Rishi Sharma*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rishisharma029&style=for-the-badge&color=ff69b4)
-
+  <sub>Made with ❤️ and ☕ by Rishi Sharma</sub>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=Rishisharma029&style=for-the-badge&color=ff69b4" alt="Profile Views" />
 </div>
